@@ -1,0 +1,23 @@
+﻿  Ball.cpp
+c:\users\sophie\desktop\cpts 121 repo files\cpts 122 repo files\pa9 - brick breaker\brick breaker\ball.cpp(42): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sophie\desktop\cpts 121 repo files\cpts 122 repo files\pa9 - brick breaker\brick breaker\ball.cpp(43): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Board.cpp
+c:\users\sophie\desktop\cpts 121 repo files\cpts 122 repo files\pa9 - brick breaker\brick breaker\board.cpp(63): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sophie\desktop\cpts 121 repo files\cpts 122 repo files\pa9 - brick breaker\brick breaker\board.cpp(64): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sophie\desktop\cpts 121 repo files\cpts 122 repo files\pa9 - brick breaker\brick breaker\board.cpp(98): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\sophie\desktop\cpts 121 repo files\cpts 122 repo files\pa9 - brick breaker\brick breaker\board.cpp(121): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\sophie\desktop\cpts 121 repo files\cpts 122 repo files\pa9 - brick breaker\brick breaker\board.cpp(164): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\sophie\desktop\cpts 121 repo files\cpts 122 repo files\pa9 - brick breaker\brick breaker\board.cpp(221): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Brick.cpp
+  Button.cpp
+  Game.cpp
+c:\users\sophie\desktop\cpts 121 repo files\cpts 122 repo files\pa9 - brick breaker\brick breaker\game.cpp(662): warning C4101: 'BUFFER': unreferenced local variable
+  Globals.cpp
+  main.cpp
+  Paddle.cpp
+c:\users\sophie\desktop\cpts 121 repo files\cpts 122 repo files\pa9 - brick breaker\brick breaker\paddle.cpp(33): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sophie\desktop\cpts 121 repo files\cpts 122 repo files\pa9 - brick breaker\brick breaker\paddle.cpp(34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Shape.cpp
+  Generating Code...
+c:\users\sophie\desktop\cpts 121 repo files\cpts 122 repo files\pa9 - brick breaker\brick breaker\game.cpp(884): warning C4715: 'Game::getGameState': not all control paths return a value
+  Brick Breaker.vcxproj -> C:\Users\Sophie\Desktop\CptS 121 Repo Files\CptS 122 Repo Files\PA9 - Brick Breaker\Debug\Brick Breaker.exe

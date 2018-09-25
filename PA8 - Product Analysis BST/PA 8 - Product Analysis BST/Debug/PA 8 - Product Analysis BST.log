@@ -1,0 +1,10 @@
+﻿  TransactionNode.cpp
+  Node.cpp
+  main.cpp
+  DataAnalysis.cpp
+  BST.cpp
+  Generating Code...
+c:\users\sophie\documents\visual studio 2015\projects\cpts 122 spring 2017\pa's\pa8 - product analysis bst\pa 8 - product analysis bst\bst.cpp(68): warning C4715: 'BST::findLargest': not all control paths return a value
+c:\users\sophie\documents\visual studio 2015\projects\cpts 122 spring 2017\pa's\pa8 - product analysis bst\pa 8 - product analysis bst\bst.cpp(81): warning C4715: 'BST::findSmallest': not all control paths return a value
+  PA 8 - Product Analysis BST.vcxproj -> C:\Users\Sophie\Documents\Visual Studio 2015\Projects\CptS 122 Spring 2017\PA's\PA8 - Product Analysis BST\Debug\PA 8 - Product Analysis BST.exe
+  PA 8 - Product Analysis BST.vcxproj -> C:\Users\Sophie\Documents\Visual Studio 2015\Projects\CptS 122 Spring 2017\PA's\PA8 - Product Analysis BST\Debug\PA 8 - Product Analysis BST.pdb (Full PDB)
